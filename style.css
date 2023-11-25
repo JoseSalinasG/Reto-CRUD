@@ -1,0 +1,30 @@
+*{
+    font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;
+}
+header {
+    background-color:  #6b74e4 ;
+    padding: 2rem;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+}
+main{
+    text-align: center;
+}
+ .tarjeta{
+    text-align: center;
+    background-color:  #e4898a;
+    width: 20%;
+    transform: translate(+200%) 
+ }
+
+ footer{
+    background-color: #6b74e4;
+    color: white;
+    padding: 1.5rem;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+ }
